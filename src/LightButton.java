@@ -17,6 +17,7 @@ public class LightButton extends JButton {
         setPreferredSize(size);
     }
     
+    
     public int getRow(){
         return row;
     }
