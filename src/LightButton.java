@@ -48,4 +48,10 @@ public class LightButton extends JButton {
             turnOn();
         }
     }
+
+
+	public void reset() {
+		// TODO Auto-generated method stub
+		
+	}
 }

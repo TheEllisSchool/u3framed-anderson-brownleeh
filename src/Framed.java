@@ -146,9 +146,9 @@ public class Framed extends JFrame {
     			&&lightButton[2][2].isLit()&&lightButton[2][1].isLit()
     			&&lightButton[2][0].isLit()&&lightButton[1][0].isLit()&& !lightButton[1][1].isLit()){
     		endGame("won");
-    	}else if(lightButton[0][0].isLit()){ // just to make it easlier to win for testing
-    		endGame("won");
-    	}
+    	}//else if(lightButton[0][0].isLit()){ // just to make it easlier to win for testing
+    		//endGame("won");
+    	//}
     	
     	
     }
